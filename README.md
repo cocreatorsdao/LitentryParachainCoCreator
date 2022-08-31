@@ -120,9 +120,10 @@ Previamente se debe instalar cargo desde rustuo en el siguiente link:
 https://rustup.rs
 
 Clonamos el repositorio
--git clone https://github.com/cocreatorsdao/LitentryParachainCoCreator.git
- y nos situamos en la carpeta de litentry
--cd lytentri-parachain
+- git clone https://github.com/cocreatorsdao/LitentryParachainCoCreator.git
+
+Y nos situamos en la carpeta de litentry
+- cd lytentri-parachain
 ## construcciones manuales
 
 Para construir el binario raw litentry-parachain manualmente:
